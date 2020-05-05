@@ -16,4 +16,4 @@ python shodanish.py
 
 # Write-up
 
-https://www.azizhakim.xyz
+https://www.azizhakim.xyz/2020/05/using-shodan-hash-filter-to-get-more.html

@@ -1,6 +1,6 @@
 # ShodanIsh
 
-Shodan Favicon MurmurHash Hashes Converter By Aziz Hakim
+Shodan Favicon MurmurHash Hash Converter By Aziz Hakim
 
 http://twitter.com/4z1zu
 

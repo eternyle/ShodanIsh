@@ -2,7 +2,9 @@
 
 Shodan Favicon MurmurHash Hash Converter By Aziz Hakim
 
-http://twitter.com/4z1zu
+www.twitter.com/4z1zu
+
+www.azizu.me
 
 # mmh3 Installation
 
@@ -16,4 +18,4 @@ python shodanish.py
 
 # Write-up
 
-https://www.azizhakim.xyz/2020/05/shodan-favicon-hash-filter-to-get-juicy.html
+https://www.azizu.me/2020/05/shodan-favicon-hash-filter-to-get-juicy.html

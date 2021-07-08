@@ -1,6 +1,6 @@
 
 # ShodanIsh
-Shodan Favicon MurmurHash Hash Converter By Aziz Hakim
+Shodan Favicon Murmur Hash Converter By Aziz Hakim @eternyle
 
 This script retrieves the decimal hash that corresponds to an image,
 the hash can be used on [shodan.io](https://shodan.io).
@@ -16,27 +16,27 @@ get-pip.py ( https://bootstrap.pypa.io/get-pip.py )
 ```
 $ python shodanish.py
 ....
-Enter Domain/URL : azizu.me
+Enter Domain/URL : azizhakim.com
 ```
 - Non-Interactive
 ```
-$ python shodanish.py --url azizu.me
-$ python shodanish.py --url https://azizu.me
-$ python shodanish.py --url https://azizu.me/
-$ python shodanish.py --url https://azizu.me/favicon.ico
+$ python shodanish.py --url azizhakim.com
+$ python shodanish.py --url https://azizhakim.com
+$ python shodanish.py --url https://azizhakim.com
+$ python shodanish.py --url https://azizhakim.com/favicon.ico
 ```
 
 The input can be given in one of the following formats:
-- hostname, http is used: `azizu.me` 
-- base url: `https://azizu.me` or `https://azizu.me/`
-- full url: `https://azizu.me/favicon.ico`
+- hostname, http is used: `azizhakim.com` 
+- base url: `https://azizhakim.com` or `https://azizhakim.com/`
+- full url: `https://azizhakim.com/favicon.ico`
 
 # Resources
-- https://www.azizu.me/2020/05/shodan-favicon-hash-filter-to-get-juicy.html
+- https://www.azizhakim.com/2020/05/shodan-favicon-hash-filter-to-get-juicy.html
 - https://medium.com/@Asm0d3us/weaponizing-favicon-ico-for-bugbounties-osint-and-what-not-ace3c214e139
 
 # Author
-www.twitter.com/4z1zu - www.azizu.me
+www.twitter.com/eternyle - www.azizhakim.com
 
 # Contributors
 

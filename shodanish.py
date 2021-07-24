@@ -35,8 +35,8 @@ def print_banner():
     """
 
     print(banner)
-    print("\t\tShodan Favicon MurmurHash Hashes Converter")
-    print("\t\tCoded with <3 By Aziz Hakim aka @4z1zu\n")
+    print("\t\tShodan Favicon MurmurHash Converter")
+    print("\t\tCoded with <3 By Aziz Hakim @eternyle\n")
 
 
 def get_target(unprocessed_target):

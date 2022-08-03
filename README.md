@@ -1,6 +1,6 @@
 
 # ShodanIsh
-Shodan Favicon Murmur Hash Converter By Aziz Hakim @eternyle
+Shodan favicon hash generator By Aziz Hakim @eternyle
 
 This script retrieves the decimal hash that corresponds to an image,
 the hash can be used on [shodan.io](https://shodan.io).

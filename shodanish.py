@@ -5,6 +5,8 @@
 import sys
 import requests, mmh3
 import argparse
+import urllib3
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 if sys.version_info[0] < 3:
     # Python 2
